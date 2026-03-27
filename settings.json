@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "FT Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FTBot",
     "password": "",
-    "type": "offline"
+    "type": "online" 
   },
   "server": {FT SMP} 
     "ip": "FT12-LzuF.aternos.me",
